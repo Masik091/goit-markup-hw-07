@@ -536,7 +536,6 @@ line-height: 1.2;
 /* Section-4 */
 .section-four-background-color {
   background-color: var(--section-four-back-ground-color);
-  padding: 120px 0px;
 }
 .container-four {
   width: 1158px;
